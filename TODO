@@ -1,0 +1,17 @@
+SAVE SYSTEM:
+	1:
+		all available cells to num
+		0 - empty
+		1 - w
+		2 - W
+		3 - b
+		4 - B
+	2:
+		we have a 32 nums
+		group by 4
+	3:
+		pack group to symbol:
+		group is an index in alphabet
+	4:
+		concat symbols
+

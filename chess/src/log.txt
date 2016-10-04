@@ -1,0 +1,20 @@
+init
+b b b b 
+ b b b b
+b b b b 
+ . . . .
+. . . . 
+ w w w w
+w w w w 
+ w w w w
+
+ai, white
+b b b b 
+ b b b b
+b b b b 
+ . . . .
+. w . . 
+ . w w w
+w w w w 
+ w w w w
+
