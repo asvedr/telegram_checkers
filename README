@@ -1,0 +1,12 @@
+Telegram bot for playing checkers
+
+bot writed on python 2.7
+	requires:
+		PIL
+		python telegram https://github.com/python-telegram-bot/python-telegram-bot
+
+AI writed on rust
+	requires:
+		rand
+
+set you telegram token in main.py and play
